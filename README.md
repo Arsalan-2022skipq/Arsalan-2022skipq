@@ -15,12 +15,12 @@ I'm a Computer Engineer💻 & Full-Stack Web Developer <img src="Images/dev.png"
 </h2>
   <h3>:fire: My Stats :</h3>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan40&theme=dark&background=000000)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arsalan-2022skipq&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Arsalan-2022skipq&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan40&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsalan-2022skipq&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
   # Tools Used
 
